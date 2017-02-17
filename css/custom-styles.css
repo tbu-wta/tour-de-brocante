@@ -6,7 +6,7 @@
 /* INTEGRATE CUSTOM FONT FACES */
 @font-face {
 	font-family: JosefinSans-Light;
-	src: url('../fonts/JosefinSans-Light-cp.ttf');
+	src: url('../fonts/JosefinSans-Light.ttf');
 }
 
 @font-face {
