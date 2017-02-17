@@ -1,3 +1,33 @@
 /*TITLE: CUSTOM CSS STYLES*/
-/*AUTHOR: Name*/
-/*CRTIME: yyyy.mm.dd*/ 
+/*AUTHOR: Tobias Buchinger*/
+/*CRTIME: 2017.02.17*/
+
+
+/* INTEGRATE CUSTOM FONT FACES */
+@font-face {
+	font-family: JosefinSans-Light;
+	src: url('../fonts/JosefinSans-Light-cp.ttf');
+}
+
+@font-face {
+	font-family: 'Montserrat-Regular';
+	src: url('../fonts/Montserrat-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Arvo-Regular';
+	src: url('../fonts/Arvo-Regular.ttf') format('truetype');
+}
+
+h1 {
+	font-family: 'JosefinSans-Light';
+}
+
+h2 {
+	font-family: 'Montserrat-Regular';
+}
+
+p {
+	font-family: 'Arvo-Regular'
+}
+
